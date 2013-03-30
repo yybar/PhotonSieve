@@ -1,0 +1,1 @@
+This repository contains code to simulate the Fresnel diffraction of a coherent light field by a photon sieve aperture with hole sizes and locations that are consistent with a Fresnel zone plate.  The code is a little raw as this was developed in a mad dash.  The results were used to publish a paper that I have included in this repo
